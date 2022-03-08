@@ -3,7 +3,7 @@
 ---
   
 
-<img align="left" width="55%" src="https://github-readme-stats.vercel.app/api?username=burmanp&theme=cobalt&show_icons=true&count_private=true" />
+<img align="right" width="55%" src="https://github-readme-stats.vercel.app/api?username=burmanp&theme=cobalt&show_icons=true&count_private=true" />
 
 Based in the East Midlands, I'm a fast learning, creative thinking and team-working professional developer with a passion for building dynamic, scalable, reliable and accessible applications. Mind you, I may under-promise and over-deliver.
 ---
@@ -33,7 +33,6 @@ Based in the East Midlands, I'm a fast learning, creative thinking and team-work
 <h3>Testing Tools</h3>
 
 <img align="left" alt="Cypress" src ="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e" />
-<img align="left" alt="Jest" src ="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" />
 <img align="left" alt="Jest" src ="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" />
 
 <br/>
@@ -82,9 +81,10 @@ Based in the East Midlands, I'm a fast learning, creative thinking and team-work
 <hr>
 
 <h3>Version Control</h3>
+<img align="left" alt="git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 <img align="left" alt="github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
 <br /><br/>
-<img align="left" alt="github status" src="https://github-readme-stats.vercel.app/api/top-langs/?username=burmanp&layout=compact)](https://github.com/burmanp/github-readme-stats"/>
+
 
 
 
