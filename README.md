@@ -2,9 +2,8 @@
 #### { Pyi rhymes with tea 🍵🧋🫖 }
 ---
   
-
 <img align="right" width="65%" src="https://github-readme-stats.vercel.app/api?username=burmanp&theme=cobalt&show_icons=true&count_private=true" />
-<br/><br/>
+<br/>
 <p>Based in the East Midlands, I'm a fast learning, creative thinking and team-working professional developer with a passion for building dynamic, scalable, reliable and accessible applications. Mind you, I may under-promise and over-deliver.</p>
 <p>Will code in return for letting me pet your pet, or a decent bubble tea! 🧋</p>
 <br/>
