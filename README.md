@@ -8,7 +8,6 @@
 <p>Based in the East Midlands, I'm a fast learning, creative thinking and team-working professional developer with a passion for building dynamic, scalable, reliable and accessible applications. Mind you, I may under-promise and over-deliver.</p>
 <p>Will code in return for letting me pet your pet, or a decent bubble tea! 🧋</p>
 <br/>
-<br/>
 
 
 ## Tech Stack
