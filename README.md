@@ -31,6 +31,7 @@
 ### Testing Tools
 <img align="left" alt="Cypress" src ="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e" />
 <img align="left" alt="Jest" src ="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" />
+<img align="left" alt="Postman" src ="https://img.shields.io/badge/postman-%23E34F26.svg?style=for-the-badge&logo=postman&logoColor=white" />
 
 <br/>
 
@@ -60,6 +61,8 @@
 <img align="left" alt="netlify" src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" />
 <img align="left" alt="vercel" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
 <img align="left" alt="docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+<img align="left" alt="github pages" src ="https://img.shields.io/badge/github-%231572B6.svg?style=for-the-badge&logo=github&logoColor=white" />
+
 <br />
 
 
